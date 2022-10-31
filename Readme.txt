@@ -9,3 +9,4 @@ octavo commit local
 octavo commit remoto
 noveno commit local
 noveno commit remoto
+décimo commit local
